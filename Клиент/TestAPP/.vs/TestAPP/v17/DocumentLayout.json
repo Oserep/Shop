@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\source\\repos\\TestAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAD454C-9B9B-44D9-B905-DF968DFADDA9}|TestAPP\\TestAPP.csproj|c:\\users\\alex\\source\\repos\\testapp\\testapp\\first.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CCAD454C-9B9B-44D9-B905-DF968DFADDA9}|TestAPP\\TestAPP.csproj|solutionrelative:testapp\\first.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAD454C-9B9B-44D9-B905-DF968DFADDA9}|TestAPP\\TestAPP.csproj|C:\\Users\\Alex\\source\\repos\\TestAPP\\testapp\\first.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAD454C-9B9B-44D9-B905-DF968DFADDA9}|TestAPP\\TestAPP.csproj|solutionrelative:testapp\\first.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAD454C-9B9B-44D9-B905-DF968DFADDA9}|TestAPP\\TestAPP.csproj|C:\\Users\\Alex\\source\\repos\\TestAPP\\testapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAD454C-9B9B-44D9-B905-DF968DFADDA9}|TestAPP\\TestAPP.csproj|solutionrelative:testapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAD454C-9B9B-44D9-B905-DF968DFADDA9}|TestAPP\\TestAPP.csproj|C:\\Users\\Alex\\source\\repos\\TestAPP\\testapp\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAD454C-9B9B-44D9-B905-DF968DFADDA9}|TestAPP\\TestAPP.csproj|solutionrelative:testapp\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAD454C-9B9B-44D9-B905-DF968DFADDA9}|TestAPP\\TestAPP.csproj|C:\\Users\\Alex\\source\\repos\\TestAPP\\testapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAD454C-9B9B-44D9-B905-DF968DFADDA9}|TestAPP\\TestAPP.csproj|solutionrelative:testapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAD454C-9B9B-44D9-B905-DF968DFADDA9}|TestAPP\\TestAPP.csproj|C:\\Users\\Alex\\source\\repos\\TestAPP\\testapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAD454C-9B9B-44D9-B905-DF968DFADDA9}|TestAPP\\TestAPP.csproj|solutionrelative:testapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAD454C-9B9B-44D9-B905-DF968DFADDA9}|TestAPP\\TestAPP.csproj|C:\\Users\\Alex\\source\\repos\\TestAPP\\testapp\\models\\numberorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAD454C-9B9B-44D9-B905-DF968DFADDA9}|TestAPP\\TestAPP.csproj|solutionrelative:testapp\\models\\numberorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAD454C-9B9B-44D9-B905-DF968DFADDA9}|TestAPP\\TestAPP.csproj|C:\\Users\\Alex\\source\\repos\\TestAPP\\testapp\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAD454C-9B9B-44D9-B905-DF968DFADDA9}|TestAPP\\TestAPP.csproj|solutionrelative:testapp\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAD454C-9B9B-44D9-B905-DF968DFADDA9}|TestAPP\\TestAPP.csproj|C:\\Users\\Alex\\source\\repos\\TestAPP\\testapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CCAD454C-9B9B-44D9-B905-DF968DFADDA9}|TestAPP\\TestAPP.csproj|solutionrelative:testapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAD454C-9B9B-44D9-B905-DF968DFADDA9}|TestAPP\\TestAPP.csproj|C:\\Users\\Alex\\source\\repos\\TestAPP\\testapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAD454C-9B9B-44D9-B905-DF968DFADDA9}|TestAPP\\TestAPP.csproj|solutionrelative:testapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|TestAPP||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAD454C-9B9B-44D9-B905-DF968DFADDA9}|TestAPP\\TestAPP.csproj|C:\\Users\\Alex\\source\\repos\\TestAPP\\testapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CCAD454C-9B9B-44D9-B905-DF968DFADDA9}|TestAPP\\TestAPP.csproj|solutionrelative:testapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAD454C-9B9B-44D9-B905-DF968DFADDA9}|TestAPP\\TestAPP.csproj|C:\\Users\\Alex\\source\\repos\\TestAPP\\testapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CCAD454C-9B9B-44D9-B905-DF968DFADDA9}|TestAPP\\TestAPP.csproj|solutionrelative:testapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAD454C-9B9B-44D9-B905-DF968DFADDA9}|TestAPP\\TestAPP.csproj|C:\\Users\\Alex\\source\\repos\\TestAPP\\testapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAD454C-9B9B-44D9-B905-DF968DFADDA9}|TestAPP\\TestAPP.csproj|solutionrelative:testapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\TestAPP\\TestAPP\\ApiClient.cs",
+              "RelativeDocumentMoniker": "TestAPP\\ApiClient.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\TestAPP\\TestAPP\\ApiClient.cs",
+              "RelativeToolTip": "TestAPP\\ApiClient.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwDUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T14:13:06.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\TestAPP\\TestAPP\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "TestAPP\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\TestAPP\\TestAPP\\Models\\Product.cs",
+              "RelativeToolTip": "TestAPP\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T18:51:40.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\TestAPP\\TestAPP\\Models\\Staff.cs",
+              "RelativeDocumentMoniker": "TestAPP\\Models\\Staff.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\TestAPP\\TestAPP\\Models\\Staff.cs",
+              "RelativeToolTip": "TestAPP\\Models\\Staff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T18:52:00.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\TestAPP\\TestAPP\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TestAPP\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\TestAPP\\TestAPP\\Models\\User.cs",
+              "RelativeToolTip": "TestAPP\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T18:52:27.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\TestAPP\\TestAPP\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "TestAPP\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\TestAPP\\TestAPP\\Models\\Order.cs",
+              "RelativeToolTip": "TestAPP\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T18:51:17.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NumberOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\TestAPP\\TestAPP\\Models\\NumberOrder.cs",
+              "RelativeDocumentMoniker": "TestAPP\\Models\\NumberOrder.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\TestAPP\\TestAPP\\Models\\NumberOrder.cs",
+              "RelativeToolTip": "TestAPP\\Models\\NumberOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T18:50:58.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "First.xaml",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\TestAPP\\TestAPP\\First.xaml",
+              "RelativeDocumentMoniker": "TestAPP\\First.xaml",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\TestAPP\\TestAPP\\First.xaml",
+              "RelativeToolTip": "TestAPP\\First.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-17T19:35:30.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\TestAPP\\TestAPP\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TestAPP\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\TestAPP\\TestAPP\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TestAPP\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAjwCwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T00:50:06.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "First.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\TestAPP\\TestAPP\\First.xaml.cs",
+              "RelativeDocumentMoniker": "TestAPP\\First.xaml.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\TestAPP\\TestAPP\\First.xaml.cs",
+              "RelativeToolTip": "TestAPP\\First.xaml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAvwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T19:37:34.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TestAPP",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\TestAPP\\TestAPP\\TestAPP.csproj",
+              "RelativeDocumentMoniker": "TestAPP\\TestAPP.csproj",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\TestAPP\\TestAPP\\TestAPP.csproj",
+              "RelativeToolTip": "TestAPP\\TestAPP.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-18T21:13:04.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\TestAPP\\TestAPP\\App.xaml",
+              "RelativeDocumentMoniker": "TestAPP\\App.xaml",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\TestAPP\\TestAPP\\App.xaml",
+              "RelativeToolTip": "TestAPP\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-17T19:18:18.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\TestAPP\\TestAPP\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TestAPP\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\TestAPP\\TestAPP\\MainWindow.xaml",
+              "RelativeToolTip": "TestAPP\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-17T00:50:07.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\TestAPP\\TestAPP\\App.config",
+              "RelativeDocumentMoniker": "TestAPP\\App.config",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\TestAPP\\TestAPP\\App.config",
+              "RelativeToolTip": "TestAPP\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-18T20:06:47.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\TestAPP\\TestAPP\\App.xaml.cs",
+              "RelativeDocumentMoniker": "TestAPP\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\TestAPP\\TestAPP\\App.xaml.cs",
+              "RelativeToolTip": "TestAPP\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T19:41:09.705Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

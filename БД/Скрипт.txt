@@ -1,0 +1,102 @@
+Пользователь БД sa
+Пароль 1
+
+
+
+create database [Test_1];
+GO
+Use [Test_1];
+GO
+--drop database [Test_1];
+CREATE TABLE [Staff]
+(
+ [ID_Staff]   int IDENTITY(1,1),
+ [Name]       varchar(50) NOT NULL ,
+ [Surname]    varchar(50) NOT NULL ,
+ [Patronymic] varchar(50) NOT NULL ,
+ [Job_Title]  varchar(100) NOT NULL ,
+ [Role]       varchar(50) NOT NULL ,
+ PRIMARY KEY CLUSTERED ([ID_Staff] ASC)
+);
+GO
+
+CREATE TABLE [User]
+(
+ [ID_User]    int IDENTITY(1,1),
+ [Name]       varchar(50) NOT NULL ,
+ [Surname]    varchar(50) NOT NULL ,
+ [Patronymic] varchar(50) NOT NULL ,
+ [Login]     varchar(50) NOT NULL ,
+ [Password]   varchar(50) NOT NULL ,
+ PRIMARY KEY CLUSTERED ([ID_User] ASC) , 
+ CONSTRAINT U_User UNIQUE (ID_User,Login)
+);
+GO
+
+CREATE TABLE [Product]
+(
+ [ID_Product]   int  IDENTITY(1,1),
+ [Name_Product] varchar(50) NOT NULL ,
+ [Price]        int NOT NULL ,
+ [ID_Staff]     int NOT NULL ,
+ PRIMARY KEY CLUSTERED ([ID_Product] ASC),
+ FOREIGN KEY ([ID_Staff])  REFERENCES [Staff]([ID_Staff])
+);
+GO
+ 
+CREATE TABLE [Order]
+(
+ [ID_Order]   int IDENTITY(1,1),
+ [Date_Order] datetime2(7) NOT NULL ,
+ [Cart_Cost]  int NOT NULL ,
+ [ID_Product] int NOT NULL ,
+ [ID_User]    int NOT NULL ,
+ PRIMARY KEY CLUSTERED ([ID_Order] ASC),
+ FOREIGN KEY ([ID_User])  REFERENCES [User]([ID_User]),
+ FOREIGN KEY ([ID_Product])  REFERENCES [Product]([ID_Product])
+);
+GO
+
+CREATE TABLE [Number_Order]
+(
+ [ID_Number_Order] int IDENTITY(1,1),
+ [Amount]          int NOT NULL ,
+ [ID_Product]      int NOT NULL ,
+ [ID_Order]        int NOT NULL ,
+ PRIMARY KEY CLUSTERED ([ID_Number_Order] ASC),
+ FOREIGN KEY ([ID_Order])  REFERENCES [Order]([ID_Order]),
+ FOREIGN KEY ([ID_Product])  REFERENCES [Product]([ID_Product])
+);
+GO
+
+INSERT INTO Staff (Name, Surname, Patronymic, Job_Title, Role) 
+VALUES
+('Александр', 'Алекс', 'Александр', 'Уборщик','Сотрудник' ),
+('Дмитрий', 'Дима', 'Дмитрий', 'Уборщик','Сотрудник' ),
+('Евгений', 'Женя', 'Евгений', 'Уборщик','Сотрудник' )
+
+INSERT INTO [User] (Name, Surname, Patronymic, Login, Password)
+VALUES
+('Александр', 'Алекс', 'Александр', 'A','ALEX' ),
+('Дмитрий', 'Дима', 'Дмитрий', 'B','DIMA' ),
+('Евгений', 'Женя', 'Евгений', 'V','EVGEN' )
+
+--SELECT * FROM [User]
+
+INSERT INTO Product ( Name_Product, Price, ID_Staff)
+VALUES
+('Телефон', 10, 1),
+('Ноутбук', 20, 2),
+('Принтер', 30, 3)
+
+INSERT INTO [Order] ( Date_Order, Cart_Cost, ID_Product, ID_User )
+VALUES
+('2008-11-11', 30, 1, 1),
+('2009-10-10', 20, 2, 2),
+('2001-9-9', 10, 3, 3)
+
+INSERT INTO Number_Order (Amount, ID_Product, ID_Order)
+VALUES
+(1000, 3, 3),
+(2000, 2, 2),
+(3000, 1, 1)
